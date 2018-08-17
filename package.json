@@ -1,0 +1,25 @@
+{
+  "name": "jsbasics",
+  "version": "1.0.0",
+  "description": "file of code snippets",
+  "main": "index.js",
+  "scripts": {
+    "start":"node ./bindAndThis/app.js && node ./closures/app.js && node ./promises/app.js && node ./generators/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joha0033/Feature_Playground.git"
+  },
+  "keywords": [
+    "demos",
+    "features",
+    "snippets"
+  ],
+  "author": "ajDevs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joha0033/Feature_Playground/issues"
+  },
+  "homepage": "https://github.com/joha0033/Feature_Playground#readme"
+}
